@@ -1,0 +1,56 @@
+[
+    {
+        "id":"1",
+        "nome":"Marco Padrão",
+        "endereco":"Av. Embaixador Pedro de Toledo",
+        "sobre":"A cidade de São Vicente foi inaugurada em 1532, ou seja, em 2020 a cidade completou 488. Porém, quando a cidade fez 400 anos, em 1933, a cidade ganhou um monumento em comemoração."
+    },
+    {
+        "id":"2",
+        "nome":"Memorial dos 500 Anos",
+        "endereco":"Alameda Ari Barroso",
+        "sobre":"Quando o Brasil completou 500 anos de seu descobrimento, São Vicente também ganhou um monumento em comemoração a data. O Memorial dos 500 anos foi desenvolvido pelo famoso arquiteto Oscar Niemeyer e hoje é tombado como patrimônio da cidade."
+    },
+    {
+        "id":"3",
+        "nome":"Praça 22 de Janeiro",
+        "endereco":"Praça 22 de Janeiro",
+        "sobre":"É um lugarbastante interessante para você aproveitar uma tarde agradável em família, principalmente para quem está com crianças. Oferece playground, alguns quiosques e, durante comemorações, a praça costuma receber shows e apresentações diversas."
+    },
+    {
+        "id":"4",
+        "nome":"Biquinha de Anchieta",
+        "endereco":"Praça 22 de Janeiro",
+        "sobre":"A Biquinha foi construída ainda em 1533, logo quando a cidade começou a surgir e, durante muito tempo, serviu como a principal fonte de água da cidade. Sua construção possui traços portugueses, com azulejos e trabalhados feitos à mão."
+    },
+    {
+        "id":"5",
+        "nome":"Igreja Matriz",
+        "endereco":"Praça João Pessoa",
+        "sobre":"Construída em 1757 no mesmo local que antes abrigava outra igreja que foi destruída por uma invasão pirata. Porém, antes dela, havia ainda uma outra igreja, construída em 1532 pelo Martin Afonso. Mas, essa igreja foi destruída por um maremoto que atingiu a costa de São Vicente em 1542. Mas, a atual Igreja, que permanece em pé há mais de 260 anos é um local super interessante para visitar, pois preserva traços da cultura antiga. Atualmente a construção está tombada pelo Conselho de Defesa do Patrimônio Histórico, Arqueológico, Artístico e Turístico."
+    },
+    {
+        "id":"6",
+        "nome":"Parque Ecológico Voturuá",
+        "endereco":"Rua Dona Anita Costa",
+        "sobre":"Abriga um zoológico municipal. Tem mais de 100 espécies de animais, além de diversas plantas e árvores distribuídas em uma área de 825 metros quadrados."
+    },
+    {
+        "id":"7",
+        "nome":"Casa Martin Afonso",
+        "endereco":"Praça 22 de Janeiro",
+        "sobre":"Martin Afonso foi o primeiro donatário da Capitânia de São Vicente, onde hoje encontra-se a cidade de São Vicente, governando o local durante muito tempo. Hoje, o local onde encontrava-se a residência de Martin Afonso ainda preserva alguns traços de sua construção original, abrigando também um museu com alguns objetos do período de colonização do Brasil."
+    },
+    {
+        "id":"8",
+        "nome":"Mercado Municipal",
+        "endereco":"Praça João Pessoa",
+        "sobre":"Localizado em prédio histórico, hoje a construção que abriga o mercado já foi a primeira câmara da cidade, além de quartel e cadeia. Porém, desde 1929, o local serve como o mercado municipal."
+    },
+    {
+        "id":"9",
+        "nome":"Paeque Cultural",
+        "endereco":"Praça João Pessoa",
+        "sobre":"O local remete os primeiros anos da vila, considerada como a primeira cidade do Brasil."
+    }
+]
